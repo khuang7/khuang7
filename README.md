@@ -16,6 +16,9 @@ Throughout uni I have gained a strong appreciation for programming and algorithm
 - 📫 **CONTACT ME**:
 Contact me via email: khuang771@gmail.com
 
+- **MISC**
+[past learnings](https://khcoding.wordpress.com/)
+
 <!--
 **khuang7/khuang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
