@@ -40,7 +40,7 @@ Contact me via email: khuang771@gmail.com
 
 - 🤔 **Future things to look into ...**
 
-Cloud computing, DevOp technologies, docker, full stack development.
+DevOp technologies, Docker, AWS and Azure
 
 Some youtube videos to explore: 
 CS50 harvard web development, google chrome developers, fireship, Ben Awad 
