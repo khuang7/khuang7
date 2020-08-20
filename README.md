@@ -9,7 +9,7 @@ Throughout uni I have gained a strong appreciation for programming and algorithm
 - **UNIX + Collab:** nix*, git flow, Jira, Bitbucket, Pivotal Tracker
 
 
-## Checkout my [portfolio!](http://www.kevinhuang.dev)
+### Checkout my [portfolio!](http://www.kevinhuang.dev)
 
 - 📫 **Contact Me**:
 Contact me via email: khuang771@gmail.com
@@ -39,7 +39,11 @@ Contact me via email: khuang771@gmail.com
 
 
 - 🤔 **Future things to look into ...**
+
 Cloud computing, DevOp technologies, docker, full stack development.
+
+Some youtube videos to explore: 
+CS50 harvard web development, google chrome developers, fireship, Ben Awad 
 
 
 
