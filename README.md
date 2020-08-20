@@ -9,7 +9,7 @@ Throughout uni I have gained a strong appreciation for programming and algorithm
 - **UNIX + Collab:** nix*, git flow, Jira, Bitbucket, Pivotal Tracker
 
 
-# [my PORTFOLIO!](http://www.kevinhuang.dev)
+# **-> [PORTFOLIO!](http://www.kevinhuang.dev) <-** 
 
 - 📫 **Contact Me**:
 Contact me via email: khuang771@gmail.com
