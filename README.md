@@ -2,9 +2,9 @@
 I recently finished studying **computer science/commerce at the University of New South Wales**.
 Currently I am working as a Front End Developer for OnSolution.
 
-Throughout uni I have gained a strong appreciation for programming and algorithms. Which I hope I'll be able to use in the workplace.
+
 #### Technical Experience:
-- **Javascript:** React, Vue, Material UI, NodeJS
+- **Javascript/TypeScript:** React, Vue, Material UI, NodeJS, TailwindCSS
 - **Python:** Flask, Restful API, Data science tools
 - **UNIX + Collab:** nix*, git flow, Jira, Bitbucket, Pivotal Tracker
 
