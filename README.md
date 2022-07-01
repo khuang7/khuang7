@@ -1,6 +1,6 @@
 ### Hello World I am Kevin 👋
 I recently finished studying **computer science/commerce at the University of New South Wales**.
-Currently I am working as Front End Developer for OnSolution.
+Currently I am working as a Front End Developer for OnSolution.
 
 Throughout uni I have gained a strong appreciation for programming and algorithms. Which I hope I'll be able to use in the workplace.
 #### Technical Experience:
@@ -9,7 +9,7 @@ Throughout uni I have gained a strong appreciation for programming and algorithm
 - **UNIX + Collab:** nix*, git flow, Jira, Bitbucket, Pivotal Tracker
 
 
-# **-> [PORTFOLIO!](http://www.kevinhuang.dev) (version 2.0 coming out soon!)<-** 
+# **-> [PORTFOLIO!](http://www.kevinhuang.dev) (version 1.0)<-** 
 
 - 📫 **Contact Me**:
 Contact me via email: khuang771@gmail.com
